@@ -1,6 +1,6 @@
 <?php
 // Configuración de conexión a MySQL de AlwaysData
-$host = "jojoapp.alwaysdata.net";
+$host = "ssh-jojoapp.alwaysdata.net";
 $user = "jojoapp";
 $pass = "3108787231Jc.";
 $db   = "jojoapp_enviosdb";
